@@ -17,11 +17,11 @@
     padding: 15px;
 }
 
-#imgTexto {
+#img-caption {
     text-align: center;
 }
 
-#textoPrincipal {
+#tribute-info {
     display: list-item;
     margin: 16px;
 }
